@@ -1,7 +1,5 @@
 {
   "common": {
-    "back": "Quay lại",
-    "next": "Kế tiếp",
-    "remove": "Loại bỏ"
+    "placeholder": "Tìm kiếm hoặc nhập URL"
   }
 }
